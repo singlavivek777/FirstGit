@@ -12,7 +12,7 @@ public class Enumaretion_Demo {
 		{
 			v.addElement(i);
 		}
-	
+	v.add("checking git");
 System.out.println(v); // [0,1,2,3,4.....,10]
 
 Enumeration e = v.elements();
